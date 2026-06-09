@@ -1,4 +1,4 @@
-# STNet: A Spatio-Temporal Network for Binary Change Detection in High-Resolution Remote Sensing Images (ISPRS P&RS 2026) [![Paper](https://img.shields.io/badge/Paper-ISPRS%20P&RS-blue)](https://doi.org/10.1016/j.isprsjprs.2026.02.003)[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.isprsjprs.2026.02.003-red)](https://doi.org/10.1016/j.isprsjprs.2026.02.003)
+# STNet: A Spatio-Temporal Network for Binary Change Detection in High-Resolution Remote Sensing Images (ISPRS P&RS 2026) [![Paper](https://img.shields.io/badge/Paper-ISPRS%20P&RS-blue)](https://doi.org/10.1016/j.isprsjprs.2026.02.003)  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.isprsjprs.2026.02.003-red)](https://doi.org/10.1016/j.isprsjprs.2026.02.003)
 
 ## Contributions
 - A spatio-temporal network, termed as STNet, is designed to comprehensively establish long-dependency and spatio-temporal relationships. It can effectively produce entire, accurate and small-scale change regions with detailed boundaries.
