@@ -40,7 +40,7 @@ conda activate stnet
 ### 3. Install dependencies
 ```bash
 pip install torch==1.13.0 torchvision==0.14.0
-pip install -r environment.txt
+pip install -r requirements.txt
 ```
 ## Training and Inference
 ### 1. Training
