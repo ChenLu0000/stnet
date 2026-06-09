@@ -38,7 +38,6 @@ conda create -n stnet python=3.8 -y
 conda activate stnet
 ```
 ### 3. Install dependencies
-Install PyTorch first:
 ```bash
 pip install torch==1.13.0 torchvision==0.14.0
 pip install -r environment.txt
