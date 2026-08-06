@@ -20,37 +20,6 @@
   <figcaption>Qualitative comparisons on four datasets (green: missed detection, i.e., false negatives; red: false detection, i.e., false positives).</figcaption>
 </figure>
 
-## Environment Installation
-The code was tested with the following main environment:
-```text
-Python == 3.8.18  PyTorch == 1.13.0   TorchVision == 0.14.0
-```
-More detailed package versions are listed in environment.txt
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/ChenLu0000/stnet.git
-cd stnet
-```
-### 2. Create the conda environment
-```bash
-conda create -n stnet python=3.8 -y
-conda activate stnet
-```
-### 3. Install dependencies
-```bash
-pip install torch==1.13.0 torchvision==0.14.0
-pip install -r requirements.txt
-```
-## Training and Inference
-### 1. Training
-```bash
-python main.py --dataset_path ${dataset file} --model_name ${model}
-```
-### 2. Inference
-```bash
-python inference.py
-```
 ## Citation
 If you find this work useful for your research, please cite our paper:
 ```bibtex
